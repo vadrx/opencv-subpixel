@@ -1,5 +1,5 @@
 # opencv-subpixel
-Test openCV subpixel realization.
+Test openCV sub_Pixel realization.
 
 Output:
 ```
